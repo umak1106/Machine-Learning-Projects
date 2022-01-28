@@ -4,7 +4,7 @@ import pickle
 
 # unplickling the model
 
-file = open('campusplacementpredictor.pkl', 'rb')
+file = open('model.pkl', 'rb')
 rf = pickle.load(file)
 file.close()
 
