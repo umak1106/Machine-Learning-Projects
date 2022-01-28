@@ -1,6 +1,9 @@
 # Machine-Learning-Projects
 
 Phishing site predictor(Ml model deployed in django)
+
+Deployed at : https://career-predictor-1106.herokuapp.com/
+
 ![2022-01-28 (5)](https://user-images.githubusercontent.com/90750049/151596172-4ddd0ec3-f95f-4038-824e-a57280455972.png)
 ![2022-01-28 (6)](https://user-images.githubusercontent.com/90750049/151596177-e5cad4ce-c82a-4cd7-af9d-0c3dd5eb494d.png)
 
